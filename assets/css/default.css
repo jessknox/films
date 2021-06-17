@@ -89,7 +89,7 @@ body{
 
 .box9{
   width:15%;
-  height:300px;
+  height:280px;
   top: 20%;
   background-image: linear-gradient(#e6f936, #8efb31);
   float: left;
@@ -103,8 +103,9 @@ body{
   width:93.6%;
   height:100px;
   background-image: linear-gradient(#8efb31, #e6f936);
-
     margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     outline-color: black;
     outline-style: solid;
     outline-width: 2px;
@@ -113,7 +114,6 @@ body{
   width:93.6%;
   height:100px;
   background-image: linear-gradient(#e6f936, #8efb31);
-
     margin: 10px;
     outline-color: black;
     outline-style: solid;
