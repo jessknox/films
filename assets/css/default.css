@@ -144,6 +144,7 @@ top: 25%;
   height:100px;
   background-image: linear-gradient(#e6f936, #8efb31);
     margin: 10px;
+    margin-bottom: 20px;
     outline-color: black;
     outline-style: solid;
     outline-width: 2px;
